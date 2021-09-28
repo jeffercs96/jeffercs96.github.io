@@ -54,7 +54,9 @@
 // Pantallas pequeñas
 
 @media(max-width:480px){
-
+    .aboutme{
+        flex-direction: column;
+    }
     .presentation div{
         text-align:center;
         margin-bottom:30px;

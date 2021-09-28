@@ -59,11 +59,11 @@ nav{
 .aboutme{
     padding-top: 100px;
     padding-bottom: 50px;
+    @include caja-flex(center,center, nowrap);
     img{
-        width: 80%;
+        width: 90%;
     }
-    @include caja-flex(space-between,center, nowrap);
-    .presentation-item1{
+    .about-item1{
         width: 100%;
         h1{
             margin-top:0;
