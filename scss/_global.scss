@@ -1,0 +1,104 @@
+$bgcolor1:rgb(52, 53, 51);
+$bgcolor2: yellow;
+$bgcolor3: #505050;
+$bgcolor4: #F8F9F9;
+// global
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+html{
+    box-sizing: border-box;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+.pres{
+    width: 100%;
+    background-color: $bgcolor2;
+}
+
+.about, .portfolio{
+    width: 100%;
+    background-color: $bgcolor3;
+}
+
+.wrapper{
+    background-color: $bgcolor4;
+}
+
+nav, .presentation, .aboutme, .services, .portafolio, .contact, .footer-content{
+    width: 80%;
+    margin: auto;
+}
+
+
+.btn{
+    border: none;
+    border-radius:2px;
+    padding: 0.7em 1.5em;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size:1.5rem;
+    font-weight: 500;
+    transition: transform 100ms;
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    &:hover{
+        transform: scale(1.1);
+    }
+}
+.btn-primary{
+    @extend .btn;
+    color: #fff;
+    background-color: #6495ED;
+}
+
+.btn-secundary{
+    @extend .btn;
+    background-color:rgb(134, 132, 132);
+}
+
+
+
+
+// variables
+$font-p: 28px;
+$font-h1: 48px;
+$font-h2: 38px;
+$font-h3: 20px;
+
+p{
+    font-size: $font-p;
+
+}
+
+h2{
+    font-size: $font-h2;
+}
+
+h3{
+    font-size: $font-h3;
+}
+
+@mixin caja-flex($principal, $cruzado, $wrap){
+    display: flex;
+    justify-content: $principal;
+    align-items: $cruzado;
+    flex-wrap: $wrap;
+}

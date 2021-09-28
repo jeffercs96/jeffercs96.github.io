@@ -1,0 +1,81 @@
+  
+// Pantallas Extra anchas
+
+@media(min-width: 1400px){
+    nav, .servicios, .footer-content, .presentation{
+        width:60%;
+        margin:auto;
+    }
+}
+
+
+// Pantallas medianas
+
+@media(max-width:800px){
+    .type-contact, .type-service, .aboutme{
+        flex-direction: column;
+    }
+    
+    header{
+        display: none;
+    }
+    .presentation{
+        img{
+            width: 50%;
+        }
+        flex-direction: column-reverse;
+        text-align:center;
+    }
+
+    .portafolio{
+        flex-direction: column;
+
+        .cards{
+            .card{
+                flex-direction: column;
+                width: 50% !important;
+            }
+            img{
+                width: 30% !important;
+            }
+        }
+    }
+    nav{
+        @include caja-flex(center, center, wrap);
+        padding-bottom: 20px;
+        padding-top:20px;
+        ul{
+            padding-left:0;
+        }
+    }
+}
+
+
+// Pantallas pequeñas
+
+@media(max-width:480px){
+
+    .presentation div{
+        text-align:center;
+        margin-bottom:30px;
+        h1, p{
+            padding:0;
+        }
+    }
+    .portafolio{
+        flex-direction: column;
+
+        .cards{
+            .card{
+                flex-direction: column;
+                width: 50% !important;
+            }
+            img{
+                width: 50% !important;
+            }
+        }
+    }
+
+    
+
+}
