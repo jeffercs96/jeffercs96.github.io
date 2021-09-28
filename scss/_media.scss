@@ -43,7 +43,11 @@
         flex-direction: column;
     }
     
+    header{
+        display: none;
+    }
     .presentation{
+        margin-top: 0;
         img{
             width: 50%;
         }
