@@ -11,6 +11,30 @@
 
 // Pantallas medianas
 
+@media(max-width:1024px){
+    
+    nav{
+        @include caja-flex(center, center, wrap);
+        padding-bottom: 20px;
+        padding-top:20px;
+        .aweb{
+            font-size: 15px;
+        }
+        ul{
+            padding-left:0;
+            
+            li{
+                a{
+                    font-size: 15px;
+                }
+            }
+        }
+        a{
+            font-size: 18px;
+        }
+    }
+}
+
 @media(max-width:800px){
     .type-contact, .type-service, .aboutme{
         flex-direction: column;
