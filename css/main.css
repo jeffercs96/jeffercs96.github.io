@@ -124,6 +124,9 @@ h3 {
   nav a {
     font-size: 18px;
   }
+  .presentation {
+    margin-top: 60px;
+  }
 }
 
 @media (max-width: 800px) {
