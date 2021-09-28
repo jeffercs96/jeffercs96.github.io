@@ -65,16 +65,18 @@ nav{
     }
     .about-item1{
         width: 100%;
-        h1{
+        h2{
             margin-top:0;
             padding-right: 20px;
-            font-size: $font-h1;
+            font-size: $font-h2;
+            color:#fff;
         }
     
         p{
             padding-right: 20px;
             padding-bottom: 10px;
             text-align: justify;
+            color:#fff;
         }
     }
 }
@@ -121,6 +123,12 @@ nav{
 .portafolio{
     padding-top: 50px;
     padding-bottom: 50px;
+    h2{
+        margin-top:0;
+        padding-right: 20px;
+        font-size: $font-h2;
+        color:#fff;
+    }
     div{
         text-align: center;
     }
@@ -138,6 +146,14 @@ nav{
             border-radius: 10px;
             img{
                 width: 80%;
+            }
+            a{
+                text-decoration: none;
+                font-size: 17px;
+                color: blue;
+                &:hover{
+                    color: red;
+                }
             }
             
         }

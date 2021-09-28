@@ -63,6 +63,10 @@ nav, .presentation, .aboutme, .services, .portafolio, .contact, .footer-content 
   color: white;
 }
 
+.btn a:hover, .btn-primary a:hover, .btn-secundary a:hover {
+  color: yellow;
+}
+
 .btn:hover, .btn-primary:hover, .btn-secundary:hover {
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
@@ -75,6 +79,10 @@ nav, .presentation, .aboutme, .services, .portafolio, .contact, .footer-content 
 
 .btn-secundary {
   background-color: #868484;
+}
+
+.btn-secundary a:hover {
+  color: yellow;
 }
 
 p {
@@ -322,16 +330,18 @@ nav ul a:hover {
   width: 100%;
 }
 
-.aboutme .about-item1 h1 {
+.aboutme .about-item1 h2 {
   margin-top: 0;
   padding-right: 20px;
-  font-size: 48px;
+  font-size: 38px;
+  color: #fff;
 }
 
 .aboutme .about-item1 p {
   padding-right: 20px;
   padding-bottom: 10px;
   text-align: justify;
+  color: #fff;
 }
 
 .services {
@@ -394,6 +404,13 @@ nav ul a:hover {
   padding-bottom: 50px;
 }
 
+.portafolio h2 {
+  margin-top: 0;
+  padding-right: 20px;
+  font-size: 38px;
+  color: #fff;
+}
+
 .portafolio div {
   text-align: center;
 }
@@ -437,6 +454,16 @@ nav ul a:hover {
 
 .portafolio .cards .card img {
   width: 80%;
+}
+
+.portafolio .cards .card a {
+  text-decoration: none;
+  font-size: 17px;
+  color: blue;
+}
+
+.portafolio .cards .card a:hover {
+  color: red;
 }
 
 .portafolio .cards .card:hover {

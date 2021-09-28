@@ -58,6 +58,9 @@ nav, .presentation, .aboutme, .services, .portafolio, .contact, .footer-content{
     a{
         text-decoration: none;
         color: white;
+        &:hover{
+            color: yellow;
+        }
     }
     &:hover{
         transform: scale(1.1);
@@ -67,11 +70,15 @@ nav, .presentation, .aboutme, .services, .portafolio, .contact, .footer-content{
     @extend .btn;
     color: #fff;
     background-color: #6495ED;
+    
 }
 
 .btn-secundary{
     @extend .btn;
     background-color:rgb(134, 132, 132);
+    a:hover{
+        color: yellow;
+    }
 }
 
 
