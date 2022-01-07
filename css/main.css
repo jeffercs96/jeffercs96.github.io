@@ -274,7 +274,7 @@ nav ul a {
 }
 
 nav ul a:hover {
-  color: #6495ED;
+  color: #6495ed;
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
 }
@@ -439,21 +439,22 @@ nav ul a:hover {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
   background-color: white;
   -webkit-box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
           box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
   padding: 1%;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  width: 15%;
+  width: 300px;
+  height: 200px;
   margin: 15px;
   border-radius: 10px;
 }
 
 .portafolio .cards .card img {
-  width: 80%;
+  width: 50%;
 }
 
 .portafolio .cards .card a {
@@ -464,6 +465,30 @@ nav ul a:hover {
 
 .portafolio .cards .card a:hover {
   color: red;
+}
+
+.portafolio .cards .card .content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.portafolio .cards .card .content h3 {
+  font-size: 12px;
+}
+
+.portafolio .cards .card .peliculasreact {
+  box-shadow: -2px 2px 25px 14px rgba(255, 255, 255, 0.65) inset;
+  -webkit-box-shadow: -2px 2px 25px 14px rgba(255, 255, 255, 0.65) inset;
+  -moz-box-shadow: -2px 2px 25px 14px rgba(255, 255, 255, 0.65) inset;
 }
 
 .portafolio .cards .card:hover {
