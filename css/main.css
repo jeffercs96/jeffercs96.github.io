@@ -395,6 +395,24 @@ nav ul a:hover {
           transform: scale(1.1);
 }
 
+.services .type-service .react:hover {
+  color: #5ccfee;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.services .type-service .angular:hover {
+  color: #d2002f;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.services .type-service .nodejs:hover {
+  color: #7cc327;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
 .services .type-service div {
   margin: 15px;
 }
@@ -482,7 +500,7 @@ nav ul a:hover {
 }
 
 .portafolio .cards .card .content h3 {
-  font-size: 12px;
+  font-size: 18px;
 }
 
 .portafolio .cards .card .peliculasreact {
