@@ -1,0 +1,737 @@
+{
+  "vite/modulepreload-polyfill": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/styles/index.scss": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@vue+shared@3.2.41/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@vue+reactivity@3.2.41/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@vue+runtime-core@3.2.41/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@vue+runtime-dom@3.2.41/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/NavBarLeft.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/NavBarLeft.vue?vue&type=style&index=0&scoped=07fd9ddb&lang.scss": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "\u0000plugin-vue:export-helper": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/NavBarLeft.vue": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/assets/jeff_Foto.svg": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/TemplateSlide.vue?vue&type=style&index=0&scoped=90155319&lang.scss": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/TemplateSlide.vue": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide1/slideHome.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide1/slideHome.vue?vue&type=style&index=0&scoped=37542129&lang.scss": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide1/slideHome.vue": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/assets/about.svg": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide2/slideAbout.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide2/slideAbout.vue?vue&type=style&index=0&scoped=be860e7f&lang.scss": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide2/slideAbout.vue": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/assets/skills.svg": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide3/progressBar.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide3/progressBar.vue?vue&type=style&index=0&scoped=30e482d7&lang.scss": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide3/progressBar.vue": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide3/slideCode.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide3/slideCode.vue?vue&type=style&index=0&scoped=e7ce7461&lang.scss": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide3/slideCode.vue": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide4/slidePortfolio.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide4/slidePortfolio.vue?vue&type=style&index=0&scoped=bc3a21f4&lang.scss": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/home/slide4/slidePortfolio.vue": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/assets/logo.svg": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/splash.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/splash.vue?vue&type=style&index=0&scoped=7626fd3d&lang.scss": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/splash.vue": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/Index.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/Index.vue?vue&type=style&index=0&scoped=48bd98d2&lang.scss": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/components/Index.vue": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/App.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/helpers.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/config.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/plugins-8a0db0e9.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/Icon-b5486de5.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/FormElementMixin-386fdfd0.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/Input-fbc105c2.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/Autocomplete-98ab756a.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/autocomplete.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/Button-7603af4d.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/button.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/InjectedChildMixin-c15c5dde.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/carousel.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/CheckRadioMixin-f5b57344.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/Checkbox-98732e4e.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/checkbox.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/collapse.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/MatchMediaMixin-6f49ea3f.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/trapFocus-dc03669f.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/DropdownItem-11ce0987.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/Field-5480c2b2.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/Select-2e989a42.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/Datepicker-20d4648b.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/datepicker.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/Timepicker-a7ceca53.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/datetimepicker.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/dropdown.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/field.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/icon.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/input.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/inputitems.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/ssr-85c76d50.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/Loading-d05d1902.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/InstanceRegistry-2fdb6ee8.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/loading.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/modal.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/notification.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/Pagination-5c4ad387.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/pagination.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/radio.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/select.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/skeleton.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/sidebar.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/Tooltip-d939a9f8.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/slider.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/SlotComponent-11a269f3.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/TabbedChildMixin-9e8442bf.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/steps.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/switch.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/table.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/tabs.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/timepicker.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/tooltip.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/upload.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+oruga-next@0.5.6_vue@3.2.41/node_modules/@oruga-ui/oruga-next/dist/esm/index.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@oruga-ui+theme-bulma@0.2.7/node_modules/@oruga-ui/theme-bulma/dist/bulma.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@vueuse+shared@9.5.0_vue@3.2.41/node_modules/@vueuse/shared/index.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "\u0000vite/preload-helper": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/hookable@5.4.1/node_modules/hookable/dist/index.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/unhead@0.6.1/node_modules/unhead/dist/index.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@unhead+dom@0.6.1/node_modules/@unhead/dom/dist/index.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@unhead+vue@0.6.1_vue@3.2.41/node_modules/@unhead/vue/dist/index.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/@vueuse+head@1.0.4_vue@3.2.41/node_modules/@vueuse/head/dist/index.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.21.2_fyqhwnulpqpzirdoh23ykm5j3m/node_modules/vite-ssg/dist/shared/vite-ssg.be31ffcd.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.21.2_fyqhwnulpqpzirdoh23ykm5j3m/node_modules/vite-ssg/dist/shared/vite-ssg.c3db3195.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.21.2_fyqhwnulpqpzirdoh23ykm5j3m/node_modules/vite-ssg/dist/client/single-page.mjs": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "src/main.ts": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ],
+  "index.html": [
+    "/assets/jeff_Foto.7e0c503c.svg",
+    "/assets/about.ee927b4d.svg",
+    "/assets/skills.4806ade4.svg",
+    "/assets/logo.28aafaac.svg",
+    "/assets/icomoon.ada20a44.svg"
+  ]
+}
